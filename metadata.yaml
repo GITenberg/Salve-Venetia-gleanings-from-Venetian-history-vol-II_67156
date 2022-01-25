@@ -1,0 +1,29 @@
+_repo: Salve-Venetia-gleanings-from-Venetian-history-vol-II_67156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2022-01-13'
+identifiers:
+  gutenberg: '67156'
+language: en
+pgterms:marc905: 20200615054947crawford
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: United States :The Macmillan Co,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Salve Venetia, gleanings from Venetian history; vol. II
+url: http://www.gutenberg.org/ebooks/67156
